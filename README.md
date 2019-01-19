@@ -1,4 +1,4 @@
-SPotify
+Spotify
 Movie 
 Concert
 NODE.JS
