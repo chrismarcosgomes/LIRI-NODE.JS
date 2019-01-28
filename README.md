@@ -9,6 +9,6 @@ Type movies-this(Any movie)
 
 
 Type spotify-this-song(Any Song)
-(https://github.com/chrismarcosgomes/LIRI-NODE.JS/blob/master/assets/movie.PNG)
+![alt text](https://github.com/chrismarcosgomes/LIRI-NODE.JS/blob/master/assets/spotify.PNG)
 
 
